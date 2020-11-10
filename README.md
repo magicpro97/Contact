@@ -1,4 +1,4 @@
-# contact
+# Contact
 
 A new Flutter application.
 
@@ -9,8 +9,15 @@ A new Flutter application.
 Download or clone this repo by using the link below:
 
 ```
-https://github.com/TC-ITECHVN/flutter_boilerplate.git
+https://github.com/magicpro97/Contact
 ```
+
+## Generate
+Use build_runner to generate necessary files
+
+Use get_cli to generate project file: [https://pub.dev/packages/get_cli]
+
+Use to update locale fileget generate locales assets/locales
 
 ## Hide Generated Files
 

@@ -3,7 +3,7 @@ import 'package:get/get.dart';
 
 import 'splash_controller.dart';
 
-class SplashView extends GetWidget<SplashController> {
+class SplashView extends GetView<SplashController> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
